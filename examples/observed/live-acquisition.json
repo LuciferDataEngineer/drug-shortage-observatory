@@ -1,0 +1,21 @@
+{
+  "validated_at": "2026-11-19T01:16:16.535592Z",
+  "python": "3.14.7",
+  "mode": "bounded public-source acquisition and replay",
+  "source_url": "https://download.open.fda.gov/drug/shortages/drug-shortages-0001-of-0001.json.zip",
+  "source_accessed_at": "2026-11-19T01:16:16.374551Z",
+  "export_date": "2026-11-18",
+  "raw_sha256": "a3f7bc0255643a0912a31ea5a22056147cb9f2df42e168349889423959a2f20c",
+  "raw_bytes": 447839,
+  "snapshot_id": "3999b7e65a288a14c2bc627334263da07e80e323ee2ad26d12fb065b7ccf9b40",
+  "raw_rows": 1584,
+  "accepted_rows": 1584,
+  "quarantined_rows": 0,
+  "sql_tables_compared_independently": 5,
+  "aggregate_rows_compared": 50,
+  "replay_after_database_reopen_unchanged": true,
+  "sqlite_integrity": "ok",
+  "foreign_key_violations": 0,
+  "cloud_deployed": false,
+  "coverage": "One complete observed FDA export; no observed longitudinal trend."
+}

@@ -1,0 +1,12 @@
+status,update_age,listing_rows
+Current,0-7 days,185
+Current,31-90 days,186
+Current,8-30 days,696
+Current,91+ days,49
+Resolved,31-90 days,17
+Resolved,8-30 days,40
+Resolved,91+ days,2
+To Be Discontinued,0-7 days,9
+To Be Discontinued,31-90 days,47
+To Be Discontinued,8-30 days,42
+To Be Discontinued,91+ days,311

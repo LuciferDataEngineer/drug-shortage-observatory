@@ -1,0 +1,167 @@
+{
+  "coverage": "Entirely synthetic teaching data; fictional labels and IDs, no clinical interpretation.",
+  "before": {
+    "export_date": "2026-11-18",
+    "rows": [
+      {
+        "generic_name": "Fictional Alpha",
+        "company_name": "Example Manufacturer A",
+        "presentation": "Example presentation 1",
+        "package_ndc": "SYNTHETIC-A1",
+        "dosage_form": "Example tablet",
+        "status": "Current",
+        "availability": "Available",
+        "initial_posting_date": "01/01/2026",
+        "update_date": "11/18/2026",
+        "therapeutic_category": [
+          "Example category A",
+          "Example category B"
+        ]
+      },
+      {
+        "generic_name": "Fictional Alpha",
+        "company_name": "Example Manufacturer A",
+        "presentation": "Example presentation 1",
+        "package_ndc": "SYNTHETIC-A1",
+        "dosage_form": "Example tablet",
+        "status": "Current",
+        "availability": "Available",
+        "initial_posting_date": "01/01/2026",
+        "update_date": "11/18/2026",
+        "therapeutic_category": [
+          "Example category A",
+          "Example category B"
+        ]
+      },
+      {
+        "generic_name": "Fictional Alpha",
+        "company_name": "Example Manufacturer A",
+        "presentation": "Example presentation 2",
+        "package_ndc": "SYNTHETIC-A2",
+        "dosage_form": "Example tablet",
+        "status": "Current",
+        "availability": "Unavailable",
+        "initial_posting_date": "01/01/2026",
+        "update_date": "11/18/2026",
+        "therapeutic_category": [
+          "Example category A"
+        ]
+      },
+      {
+        "generic_name": "Fictional Beta",
+        "company_name": "Example Manufacturer A",
+        "presentation": "Example presentation 1",
+        "package_ndc": "SYNTHETIC-B1",
+        "dosage_form": "Example tablet",
+        "status": "Current",
+        "availability": "Unvailable",
+        "initial_posting_date": "01/01/2026",
+        "update_date": "08/01/2026",
+        "therapeutic_category": [
+          "Example category B"
+        ]
+      },
+      {
+        "generic_name": "Fictional Gamma",
+        "company_name": "Example Manufacturer A",
+        "presentation": "Example presentation 1",
+        "package_ndc": "SYNTHETIC-C1",
+        "dosage_form": "Example tablet",
+        "status": "Resolved",
+        "availability": null,
+        "initial_posting_date": "01/01/2026",
+        "update_date": null,
+        "therapeutic_category": []
+      },
+      {
+        "generic_name": "Fictional Alpha",
+        "company_name": "Example Manufacturer A",
+        "presentation": "Example presentation 1",
+        "package_ndc": "SYNTHETIC-A1",
+        "dosage_form": "Example tablet",
+        "status": "Unexpected status",
+        "availability": "Available",
+        "initial_posting_date": "01/01/2026",
+        "update_date": "11/18/2026",
+        "therapeutic_category": [
+          "Example category A",
+          "Example category B"
+        ]
+      }
+    ]
+  },
+  "after": {
+    "export_date": "2026-11-19",
+    "rows": [
+      {
+        "generic_name": "Fictional Alpha",
+        "company_name": "Example Manufacturer A",
+        "presentation": "Example presentation 1",
+        "package_ndc": "SYNTHETIC-A1",
+        "dosage_form": "Example tablet",
+        "status": "Current",
+        "availability": "Available",
+        "initial_posting_date": "01/01/2026",
+        "update_date": "11/18/2026",
+        "therapeutic_category": [
+          "Example category A",
+          "Example category B"
+        ]
+      },
+      {
+        "generic_name": "Fictional Alpha",
+        "company_name": "Example Manufacturer A",
+        "presentation": "Example presentation 1",
+        "package_ndc": "SYNTHETIC-A1",
+        "dosage_form": "Example tablet",
+        "status": "Current",
+        "availability": "Available",
+        "initial_posting_date": "01/01/2026",
+        "update_date": "11/18/2026",
+        "therapeutic_category": [
+          "Example category A",
+          "Example category B"
+        ]
+      },
+      {
+        "generic_name": "Fictional Alpha",
+        "company_name": "Example Manufacturer A",
+        "presentation": "Example presentation 2",
+        "package_ndc": "SYNTHETIC-A2",
+        "dosage_form": "Example tablet",
+        "status": "Current",
+        "availability": "Available",
+        "initial_posting_date": "01/01/2026",
+        "update_date": "11/19/2026",
+        "therapeutic_category": [
+          "Example category A"
+        ]
+      },
+      {
+        "generic_name": "Fictional Gamma",
+        "company_name": "Example Manufacturer A",
+        "presentation": "Example presentation 1",
+        "package_ndc": "SYNTHETIC-C1",
+        "dosage_form": "Example tablet",
+        "status": "Resolved",
+        "availability": null,
+        "initial_posting_date": "01/01/2026",
+        "update_date": null,
+        "therapeutic_category": []
+      },
+      {
+        "generic_name": "Fictional Delta",
+        "company_name": "Example Manufacturer A",
+        "presentation": "Example presentation 1",
+        "package_ndc": "SYNTHETIC-D1",
+        "dosage_form": "Example tablet",
+        "status": "To Be Discontinued",
+        "availability": null,
+        "initial_posting_date": "01/01/2026",
+        "update_date": "11/20/2026",
+        "therapeutic_category": [],
+        "discontinued_date": "12/01/2026"
+      }
+    ]
+  }
+}

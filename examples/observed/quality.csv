@@ -1,0 +1,12 @@
+metric,value
+raw_rows,1584
+accepted_rows,1584
+quarantined_rows,0
+repeated_natural_key_groups,17
+extra_rows_at_repeated_natural_keys,17
+exact_raw_duplicate_extra_rows,1
+projected_duplicate_extra_rows,1
+generic_labels_with_multiple_statuses,7
+unknown_availability_rows,1
+missing_dosage_form_rows,10
+missing_shortage_reason_rows,1143

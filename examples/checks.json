@@ -1,0 +1,15 @@
+{
+  "validated_on": "2026-11-19",
+  "python": "3.14.7",
+  "environment": "macOS local",
+  "deterministic_tests_passed": 40,
+  "suite_counts": {
+    "source": 16,
+    "warehouse": 10,
+    "reports": 11,
+    "cli": 3
+  },
+  "live_evidence": "observed/live-acquisition.json",
+  "final_offline_replay": "observed/validation.json",
+  "cloud_deployed": false
+}

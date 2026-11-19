@@ -1,0 +1,12 @@
+/data/
+/.venv/
+__pycache__/
+*.py[cod]
+*.sqlite*
+.env
+.env.*
+!.env.example
+local.settings.json
+*.pem
+*.key
+.DS_Store

@@ -1,0 +1,278 @@
+{
+  "accepted_rows": 1584,
+  "coverage": "Observed FDA bulk snapshot at the recorded export date; a source listing census, not patient-level or clinical evidence.",
+  "export_date": "2026-11-18",
+  "provenance": "official_fda_bulk",
+  "quarantined_rows": 0,
+  "raw_rows": 1584,
+  "raw_sha256": "a3f7bc0255643a0912a31ea5a22056147cb9f2df42e168349889423959a2f20c",
+  "snapshot_id": "3999b7e65a288a14c2bc627334263da07e80e323ee2ad26d12fb065b7ccf9b40",
+  "source_accessed_at": "2026-11-19T01:16:16.374551Z",
+  "source_url": "https://download.open.fda.gov/drug/shortages/drug-shortages-0001-of-0001.json.zip",
+  "tables": {
+    "availability": [
+      {
+        "availability": "Available",
+        "availability_reported": 1,
+        "generic_labels": 59,
+        "listing_rows": 677,
+        "status": "Current"
+      },
+      {
+        "availability": "Limited Availability",
+        "availability_reported": 1,
+        "generic_labels": 38,
+        "listing_rows": 154,
+        "status": "Current"
+      },
+      {
+        "availability": "Unavailable",
+        "availability_reported": 1,
+        "generic_labels": 58,
+        "listing_rows": 284,
+        "status": "Current"
+      },
+      {
+        "availability": "Unvailable",
+        "availability_reported": 1,
+        "generic_labels": 1,
+        "listing_rows": 1,
+        "status": "Current"
+      },
+      {
+        "availability": "Not reported",
+        "availability_reported": 0,
+        "generic_labels": 6,
+        "listing_rows": 59,
+        "status": "Resolved"
+      },
+      {
+        "availability": "Not reported",
+        "availability_reported": 0,
+        "generic_labels": 158,
+        "listing_rows": 409,
+        "status": "To Be Discontinued"
+      }
+    ],
+    "categories": [
+      {
+        "category": "Anesthesia",
+        "current_generic_labels": 10,
+        "current_listing_rows": 359
+      },
+      {
+        "category": "Pediatric",
+        "current_generic_labels": 16,
+        "current_listing_rows": 227
+      },
+      {
+        "category": "Psychiatry",
+        "current_generic_labels": 6,
+        "current_listing_rows": 220
+      },
+      {
+        "category": "Gastroenterology",
+        "current_generic_labels": 10,
+        "current_listing_rows": 134
+      },
+      {
+        "category": "Analgesia/Addiction",
+        "current_generic_labels": 10,
+        "current_listing_rows": 126
+      },
+      {
+        "category": "Endocrinology/Metabolism",
+        "current_generic_labels": 9,
+        "current_listing_rows": 110
+      },
+      {
+        "category": "Other",
+        "current_generic_labels": 9,
+        "current_listing_rows": 104
+      },
+      {
+        "category": "Neurology",
+        "current_generic_labels": 7,
+        "current_listing_rows": 88
+      },
+      {
+        "category": "Oncology",
+        "current_generic_labels": 8,
+        "current_listing_rows": 84
+      },
+      {
+        "category": "Cardiovascular",
+        "current_generic_labels": 9,
+        "current_listing_rows": 81
+      },
+      {
+        "category": "Rheumatology",
+        "current_generic_labels": 4,
+        "current_listing_rows": 58
+      },
+      {
+        "category": "Anti-Infective",
+        "current_generic_labels": 7,
+        "current_listing_rows": 45
+      },
+      {
+        "category": "Pulmonary/Allergy",
+        "current_generic_labels": 3,
+        "current_listing_rows": 35
+      },
+      {
+        "category": "Hematology",
+        "current_generic_labels": 3,
+        "current_listing_rows": 31
+      },
+      {
+        "category": "Ophthalmology",
+        "current_generic_labels": 3,
+        "current_listing_rows": 21
+      },
+      {
+        "category": "Dermatology",
+        "current_generic_labels": 1,
+        "current_listing_rows": 19
+      },
+      {
+        "category": "Total Parenteral Nutrition",
+        "current_generic_labels": 1,
+        "current_listing_rows": 15
+      },
+      {
+        "category": "Renal",
+        "current_generic_labels": 1,
+        "current_listing_rows": 10
+      },
+      {
+        "category": "Medical Imaging",
+        "current_generic_labels": 1,
+        "current_listing_rows": 3
+      }
+    ],
+    "quality": [
+      {
+        "metric": "raw_rows",
+        "value": 1584
+      },
+      {
+        "metric": "accepted_rows",
+        "value": 1584
+      },
+      {
+        "metric": "quarantined_rows",
+        "value": 0
+      },
+      {
+        "metric": "repeated_natural_key_groups",
+        "value": 17
+      },
+      {
+        "metric": "extra_rows_at_repeated_natural_keys",
+        "value": 17
+      },
+      {
+        "metric": "exact_raw_duplicate_extra_rows",
+        "value": 1
+      },
+      {
+        "metric": "projected_duplicate_extra_rows",
+        "value": 1
+      },
+      {
+        "metric": "generic_labels_with_multiple_statuses",
+        "value": 7
+      },
+      {
+        "metric": "unknown_availability_rows",
+        "value": 1
+      },
+      {
+        "metric": "missing_dosage_form_rows",
+        "value": 10
+      },
+      {
+        "metric": "missing_shortage_reason_rows",
+        "value": 1143
+      }
+    ],
+    "recency": [
+      {
+        "listing_rows": 185,
+        "status": "Current",
+        "update_age": "0-7 days"
+      },
+      {
+        "listing_rows": 186,
+        "status": "Current",
+        "update_age": "31-90 days"
+      },
+      {
+        "listing_rows": 696,
+        "status": "Current",
+        "update_age": "8-30 days"
+      },
+      {
+        "listing_rows": 49,
+        "status": "Current",
+        "update_age": "91+ days"
+      },
+      {
+        "listing_rows": 17,
+        "status": "Resolved",
+        "update_age": "31-90 days"
+      },
+      {
+        "listing_rows": 40,
+        "status": "Resolved",
+        "update_age": "8-30 days"
+      },
+      {
+        "listing_rows": 2,
+        "status": "Resolved",
+        "update_age": "91+ days"
+      },
+      {
+        "listing_rows": 9,
+        "status": "To Be Discontinued",
+        "update_age": "0-7 days"
+      },
+      {
+        "listing_rows": 47,
+        "status": "To Be Discontinued",
+        "update_age": "31-90 days"
+      },
+      {
+        "listing_rows": 42,
+        "status": "To Be Discontinued",
+        "update_age": "8-30 days"
+      },
+      {
+        "listing_rows": 311,
+        "status": "To Be Discontinued",
+        "update_age": "91+ days"
+      }
+    ],
+    "status_summary": [
+      {
+        "company_labels": 89,
+        "generic_labels": 69,
+        "listing_rows": 1116,
+        "status": "Current"
+      },
+      {
+        "company_labels": 17,
+        "generic_labels": 6,
+        "listing_rows": 59,
+        "status": "Resolved"
+      },
+      {
+        "company_labels": 55,
+        "generic_labels": 158,
+        "listing_rows": 409,
+        "status": "To Be Discontinued"
+      }
+    ]
+  }
+}
